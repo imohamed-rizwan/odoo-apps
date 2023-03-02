@@ -22,6 +22,7 @@
         'report/report.xml',
         'report/report_invoice.xml',
     ],
+    'images': ['static/description/icon.png'],
     'support': 'iamrizwan45@gmail.com',
     'license': 'LGPL-3',
     'installable': True,
