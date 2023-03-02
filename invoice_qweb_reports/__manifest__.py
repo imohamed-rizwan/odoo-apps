@@ -4,7 +4,7 @@
 
 {
     'name': 'Odoo 14 Invoice PDF Reports ',
-    'version': '14.0.1',
+    'version': '14.0.2',
     'category': 'Invoicing Management',
     'description': 'Create an Invoice Report by taking input of Start Date and End Date from wizard Based on Date, Multiple pdf pages will be printed in single pdf. Only invoice that are Posted and Paid be printed.',
     'summary': 'Invoice PDF Reports for Odoo 14',
